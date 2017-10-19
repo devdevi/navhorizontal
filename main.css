@@ -1,0 +1,35 @@
+body{
+	font-family: sans-serif;
+
+}
+
+ul{
+	/*outline: 1px solid orange;*/
+	list-style: none;
+	margin:0;
+	padding: 0;
+	width: 200px
+	line-height: 24px;
+	background: black;
+	overflow: auto;
+}
+li{
+	/*display: inline-block;*/
+	text-align: center;
+	/*outline: 1px solid orange;*/
+	float: left;
+}
+a{
+	padding: 10px;
+	/*outline: 1px solid green;*/
+	display: block;
+	text-decoration: none;
+	color: #fff;
+}
+a:hover{
+	background: orange;
+	color:black;
+
+}
+/*selector desendicnete*/
+
